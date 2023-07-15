@@ -1,0 +1,6 @@
+["*"]
+tab_width = 2  # Definindo o TAB com 2 espaços para manter o código visualmente organizado e legível.
+indent_size = 2  # Tmanho da indentação para 2 espaços, seguindo um estilo consistente de formatação do código.
+charset = utf-8  # Suportar diferentes idiomas e caracteres especiais.
+indent_style = space  # Coloca espaços em vez de TAB na indentação, garantindo uma aparência uniforme e evitando conflitos entre diferentes editores.
+insert_final_newline = true  # Adiciona automaticamente uma nova linha ao final de cada arquivo, evita problemas de formatação.
