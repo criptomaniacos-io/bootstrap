@@ -1,6 +1,6 @@
 {
   "name": "bootstrap",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "all basic configurations for bootstrap projects",
   "main": "index.js",
   "scripts": {
